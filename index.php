@@ -1,11 +1,7 @@
 Welcome to Nikita Joshi Page
 <pre>
-<html>
-<body>
+<img src="https://d2d913y14vjptj.cloudfront.net/image", hieght="200px",width="200px">
 <?php
- print `ifconfig`;
-echo "<img src='https://d2d913y14vjptj.cloudfront.net/image' , width='499', height='392' />";
+print 'ifconfig';
 ?>
-</body>
-</html>
 </pre>
