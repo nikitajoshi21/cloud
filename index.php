@@ -1,6 +1,6 @@
-Welcome to Nikita Joshi Page
+Welcome to Akshay Roy Page
 <pre>
-<img src="https://d2d913y14vjptj.cloudfront.net/image" hieght= "200px" width= "200px">
+<img src="" hieght= "200px" width= "200px">
 <?php
 print "cloud \n";
 print 'ifconfig';
